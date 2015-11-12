@@ -1,0 +1,9 @@
+{"ts":1376186383367,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1376186380130,"patch":[[{"diffs":[[1,"<?php\r\nforeach(PDO::getAvailableDrivers() as $driver)\r\n    {\r\n    echo $driver.'<br />';\r\n    }\r\n?>"]],"start1":0,"start2":0,"length1":0,"length2":99}]],"length":99,"saved":false}
+{"ts":1376186382037,"patch":[[{"diffs":[[0,"   }\r\n?>"],[1,"\r\n"]],"start1":91,"start2":91,"length1":8,"length2":10}]],"length":101,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1376231925963,"patch":[[{"diffs":[[0,"<?php\r\n"],[1,"/\r\n"],[0,"foreach("]],"start1":0,"start2":0,"length1":15,"length2":18}]],"length":104,"saved":false}
+{"ts":1376231926883,"patch":[[{"diffs":[[0,"<?php\r\n/"],[1,"/"],[0,"\r\nforeac"]],"start1":0,"start2":0,"length1":16,"length2":17}]],"length":105,"saved":false}
+{"ts":1376231927955,"patch":[[{"diffs":[[0,"?php\r\n//"],[1," wh"],[0,"\r\nforeac"]],"start1":1,"start2":1,"length1":16,"length2":19}]],"length":108,"saved":false}
+{"ts":1376231930817,"patch":[[{"diffs":[[0,"p\r\n// wh"],[1,"at PDO "],[0,"\r\nforeac"]],"start1":4,"start2":4,"length1":16,"length2":23}]],"length":115,"saved":false}
+{"ts":1376231936026,"patch":[[{"diffs":[[0,"hat PDO "],[1,"adapters are installe"],[0,"\r\nforeac"]],"start1":11,"start2":11,"length1":16,"length2":37}]],"length":136,"saved":false}
+{"ts":1376231937000,"patch":[[{"diffs":[[0,"installe"],[1,"d?"],[0,"\r\nforeac"]],"start1":32,"start2":32,"length1":16,"length2":18}]],"length":138,"saved":false}

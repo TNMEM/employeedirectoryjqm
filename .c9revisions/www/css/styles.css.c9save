@@ -1,0 +1,2 @@
+{"ts":1374693538803,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"#employeePic {\n\tfloat: left;\n\tpadding-right: 10px;\n\tpadding-bottom: 16px;\n}\n\n#employeeDetails p {\n\tmargin-top: 0px;\n\tmargin-bottom: 8px;\n}\n\n#actionList {\n\tclear: both;\n}"]],"start1":0,"start2":0,"length1":0,"length2":169}]],"length":169}
+{"contributors":[],"silentsave":true,"ts":1375210653062,"patch":[[{"diffs":[[0,"in-top: "],[-1,"0"],[1,"2"],[0,"px;\n\tmar"]],"start1":103,"start2":103,"length1":17,"length2":17}]],"length":169,"saved":false}

@@ -1,0 +1,22 @@
+{"ts":1374681476891,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1374688906881,"patch":[[{"diffs":[[1,"<?php\n\n    // this is a redirect to the \"real\" project.\n    // it helps c9.io with startup and testing.\n    header ('Location: index.html');\n\n?>\n"]],"start1":0,"start2":0,"length1":0,"length2":145}]],"length":145,"saved":false}
+{"ts":1374689068294,"patch":[[{"diffs":[[0,"ing.\n   "],[1," //"],[0," header "]],"start1":99,"start2":99,"length1":16,"length2":19}]],"length":148,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1374690766114,"patch":[[{"diffs":[[0,"ing.\n   "],[-1," //"],[0," header "]],"start1":99,"start2":99,"length1":19,"length2":16}]],"length":145,"saved":false}
+{"ts":1374690770611,"patch":[[{"diffs":[[0,"cation: "],[1,"www/"],[0,"index.ht"]],"start1":119,"start2":119,"length1":16,"length2":20}]],"length":149,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1374764180401,"patch":[[{"diffs":[[0,"lps "],[-1,"c9.io "],[0,"with"]],"start1":68,"start2":68,"length1":14,"length2":8}]],"length":143,"saved":false}
+{"ts":1374764184103,"patch":[[{"diffs":[[0,"<?php\n\n"],[1,"\n"],[0,"    // t"]],"start1":0,"start2":0,"length1":15,"length2":16}]],"length":144,"saved":false}
+{"ts":1374764186034,"patch":[[{"diffs":[[0,"<?php\n"],[1,"    "],[0,"\n\n    //"]],"start1":0,"start2":0,"length1":14,"length2":18}]],"length":148,"saved":false}
+{"ts":1374764187432,"patch":[[{"diffs":[[0,"php\n    "],[1,"//"],[0,"\n\n    //"]],"start1":2,"start2":2,"length1":16,"length2":18}]],"length":150,"saved":false}
+{"ts":1374764188622,"patch":[[{"diffs":[[0,"p\n    //"],[1," "],[0,"\n\n    //"]],"start1":4,"start2":4,"length1":16,"length2":17}]],"length":151,"saved":false}
+{"ts":1374764193846,"patch":[[{"diffs":[[0,"\n    // "],[1,"employeedirect"],[0,"\n\n    //"]],"start1":5,"start2":5,"length1":16,"length2":30}]],"length":165,"saved":false}
+{"ts":1374764198003,"patch":[[{"diffs":[[0,"eedirect"],[1,"ory"],[0,"\n\n    //"]],"start1":19,"start2":19,"length1":16,"length2":19}]],"length":168,"saved":false}
+{"ts":1374764199618,"patch":[[{"diffs":[[0,"irectory"],[1,"jqm"],[0,"\n\n    //"]],"start1":22,"start2":22,"length1":16,"length2":19}]],"length":171,"saved":false}
+{"ts":1374764202876,"patch":[[{"diffs":[[0,"ctoryjqm"],[1," project"],[0,"\n\n    //"]],"start1":25,"start2":25,"length1":16,"length2":24}]],"length":179,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1374764223948,"patch":[[{"diffs":[[0," project"],[1," "],[0,"\n\n    //"]],"start1":33,"start2":33,"length1":16,"length2":17}]],"length":180,"saved":false}
+{"ts":1374764226030,"patch":[[{"diffs":[[0,"project "],[1,"8082"],[0,"\n\n    //"]],"start1":34,"start2":34,"length1":16,"length2":20}]],"length":184,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1376189732027,"patch":[[{"diffs":[[1,"require_once('PhpConsole.php');\nPhpConsole::start(true, true, dirname(__FILE__));\n"],[0,"<?php\n  "]],"start1":0,"start2":0,"length1":8,"length2":90}]],"length":266,"saved":false}
+{"ts":1376189735437,"patch":[[{"diffs":[[0,"LE__));\n"],[1,"\n"],[0,"<?php\n  "]],"start1":74,"start2":74,"length1":16,"length2":17}]],"length":267,"saved":false}
+{"ts":1376189834578,"patch":[[{"diffs":[[-1,"require_once('PhpConsole.php');\nPhpConsole::start(true, true, dirname(__FILE__));\n\n"],[0,"<?ph"]],"start1":0,"start2":0,"length1":87,"length2":4}]],"length":184,"saved":false}
+{"ts":1376189839698,"patch":[[{"diffs":[[0,"<?php\n"],[-1,"    "],[1,"\n"],[0,"// emplo"]],"start1":0,"start2":0,"length1":18,"length2":15}]],"length":181,"saved":false}
+{"ts":1376189841239,"patch":[[{"diffs":[[0,"<?php\n\n"],[1,"require_once('PhpConsole.php');\nPhpConsole::start(true, true, dirname(__FILE__));\n\n"],[0,"// emplo"]],"start1":0,"start2":0,"length1":15,"length2":98}]],"length":264,"saved":false}
+{"ts":1376189879344,"patch":[[{"diffs":[[0,"php\n"],[-1,"\nrequire_once('PhpConsole.php');\nPhpConsole::start(true, true, dirname(__FILE__));\n\n"],[0,"// e"]],"start1":2,"start2":2,"length1":92,"length2":8}]],"length":180,"saved":false}

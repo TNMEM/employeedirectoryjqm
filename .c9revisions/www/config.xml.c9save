@@ -1,0 +1,26 @@
+{"ts":1374690888050,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1374691124118,"patch":[[{"diffs":[[1,"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<widget xmlns = \"http://www.w3.org/ns/widgets\"\n    xmlns:gap = \"http://phonegap.com/ns/1.0\"\n    id        = \"com.phonegap.kitchensink\"\n    version   = \"0.1.0\">\n\n    <name>Kitchen Sink</name>\n\n    <description>\n        PhoneGap Kitchen Sink Demo\n    </description>\n\n    <author href=\"http://michaelbrooks.ca\" email=\"michael.brooks@nitobi.com\">\n        Michael Brooks\n    </author>\n\n    <gap:platforms>\n        <gap:platform name=\"android\" minVersion=\"2.1\" />\n    </gap:platforms>\n\n    <icon src=\"icon.png\" gap:role=\"default\" />\n    <icon src=\"icon_hover.png\" gap:role=\"default\" hover=\"true\" />\n\n</widget>"]],"start1":0,"start2":0,"length1":0,"length2":642}]],"length":642,"saved":false}
+{"ts":1374691147139,"patch":[[{"diffs":[[0,"gap."],[-1,"kitchensink"],[1,"Employe"],[0,"\"\n  "]],"start1":157,"start2":157,"length1":19,"length2":15}]],"length":638,"saved":false}
+{"ts":1374691148007,"patch":[[{"diffs":[[0,".Employe"],[1,"e"],[0,"\"\n    ve"]],"start1":160,"start2":160,"length1":16,"length2":17}]],"length":639,"saved":false}
+{"ts":1374691156035,"patch":[[{"diffs":[[0,"gap."],[-1,"E"],[1,"e"],[0,"mplo"]],"start1":157,"start2":157,"length1":9,"length2":9}]],"length":639,"saved":false}
+{"ts":1374691158588,"patch":[[{"diffs":[[0,"employee"],[1,"directory"],[0,"\"\n    ve"]],"start1":161,"start2":161,"length1":16,"length2":25}]],"length":648,"saved":false}
+{"ts":1374691159830,"patch":[[{"diffs":[[0,"irectory"],[1,"jq"],[0,"\"\n    ve"]],"start1":170,"start2":170,"length1":16,"length2":18}]],"length":650,"saved":false}
+{"ts":1374691160381,"patch":[[{"diffs":[[0,"ectoryjq"],[1,"m"],[0,"\"\n    ve"]],"start1":172,"start2":172,"length1":16,"length2":17}]],"length":651,"saved":false}
+{"ts":1374691166044,"patch":[[{"diffs":[[0,"  <name>"],[-1,"Kitchen Sink"],[1,"E"],[0,"</name>\n"]],"start1":211,"start2":211,"length1":28,"length2":17}]],"length":640,"saved":false}
+{"ts":1374691170551,"patch":[[{"diffs":[[0," <name>E"],[1,"mployee Directory J"],[0,"</name>\n"]],"start1":212,"start2":212,"length1":16,"length2":35}]],"length":659,"saved":false}
+{"ts":1374691171670,"patch":[[{"diffs":[[0,"ectory J"],[1,"QM"],[0,"</name>\n"]],"start1":231,"start2":231,"length1":16,"length2":18}]],"length":661,"saved":false}
+{"ts":1374691181960,"patch":[[{"diffs":[[0,"Gap "],[-1,"Kitchen Sink Demo"],[1,"Employee Directory JQM"],[0,"\n   "]],"start1":281,"start2":281,"length1":25,"length2":30}]],"length":666,"saved":false}
+{"ts":1374691198238,"patch":[[{"diffs":[[0,"p://"],[-1,"michaelbrooks.ca"],[1,"hmmm"],[0,"\" em"]],"start1":349,"start2":349,"length1":24,"length2":12}]],"length":654,"saved":false}
+{"ts":1374691199976,"patch":[[{"diffs":[[0,"p://"],[-1,"hmmm"],[0,"\" em"]],"start1":349,"start2":349,"length1":12,"length2":8}]],"length":650,"saved":false}
+{"ts":1374691206250,"patch":[[{"diffs":[[0,"\"http://"],[1,"x.co"],[0,"\" email="]],"start1":345,"start2":345,"length1":16,"length2":20}]],"length":654,"saved":false}
+{"ts":1374691207250,"patch":[[{"diffs":[[0,"p://x.co"],[1,"m"],[0,"\" email="]],"start1":349,"start2":349,"length1":16,"length2":17}]],"length":655,"saved":false}
+{"ts":1374691211760,"patch":[[{"diffs":[[0,"il=\""],[-1,"michael.brooks@nitobi.com"],[1,"x"],[0,"\">\n "]],"start1":363,"start2":363,"length1":33,"length2":9}]],"length":631,"saved":false}
+{"ts":1374691212947,"patch":[[{"diffs":[[0,"email=\"x"],[1,"@"],[0,"\">\n     "]],"start1":360,"start2":360,"length1":16,"length2":17}]],"length":632,"saved":false}
+{"ts":1374691214966,"patch":[[{"diffs":[[0,"mail=\"x@"],[1,"x.com"],[0,"\">\n     "]],"start1":361,"start2":361,"length1":16,"length2":21}]],"length":637,"saved":false}
+{"ts":1374691219057,"patch":[[{"diffs":[[0,"    "],[-1,"Michael Brooks"],[1,"X "],[0,"\n   "]],"start1":381,"start2":381,"length1":22,"length2":10}]],"length":625,"saved":false}
+{"ts":1374691220297,"patch":[[{"diffs":[[0,"      X "],[1,"X"],[0,"\n    </a"]],"start1":379,"start2":379,"length1":16,"length2":17}]],"length":626,"saved":false}
+{"ts":1374691408694,"patch":[[{"diffs":[[0,"tforms>\n"],[1,"<!"],[0,"\n    <ic"]],"start1":494,"start2":494,"length1":16,"length2":18}]],"length":628,"saved":false}
+{"ts":1374691409327,"patch":[[{"diffs":[[0,"orms>\n<!"],[1,"-"],[0,"\n    <ic"]],"start1":496,"start2":496,"length1":16,"length2":17}]],"length":629,"saved":false}
+{"ts":1374691410264,"patch":[[{"diffs":[[0,"rms>\n<!-"],[1,"-"],[0,"\n    <ic"]],"start1":497,"start2":497,"length1":16,"length2":17}]],"length":630,"saved":false}
+{"ts":1374691413497,"patch":[[{"diffs":[[0,"rue\" />\n"],[1,"-->"],[0,"\n</widge"]],"start1":612,"start2":612,"length1":16,"length2":19}]],"length":633,"saved":false}
+{"ts":1374691414956,"patch":[[{"diffs":[[0," />\n-->\n"],[1,"\n"],[0,"</widget"]],"start1":616,"start2":616,"length1":16,"length2":17}]],"length":634,"saved":false}
